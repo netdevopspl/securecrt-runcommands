@@ -1,0 +1,11 @@
+show clock
+show ver
+show ntp associations
+terminal pager 0
+terminal no monitor
+show running-config
+show interface
+show cluster info
+show cluster info health
+show logging
+copy running-config startup-config

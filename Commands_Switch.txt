@@ -1,0 +1,20 @@
+terminal length 0
+terminal no monitor
+show clock
+show ntp associations
+show running-config
+show cdp neighbor detail
+show cdp neighbor
+show version
+show module
+show boot
+show ip interface brief | exclude una
+show interface status
+show vlan
+show spanning-tree root
+show spanning-tree summary
+show etherchannel summary
+show mac address-table
+show ip arp
+show ip arp Mgmt-intf
+

@@ -1,0 +1,36 @@
+terminal length 0
+terminal no monitor
+show clock
+show running-config
+show version
+show module
+dir all-file
+show boot
+show ntp peer-status
+show logging logfile
+show system redundancy status
+show interface status
+show interface desc
+show vlan
+show spanning-tree root
+show spanning-tree summary
+show port-channel summary
+show mac address-table
+show cdp neighbor detail
+show cdp neighbor
+show vpc
+show vdc
+show vdc resource
+show vdc membership
+show ip int brief
+show ip protocols
+show ip route summary
+show ip eigrp interface
+show ip eigrp neighbor
+show ip ospf interface
+show ip ospf neighbor
+show ip arp
+show fex
+show fex detail
+show hsrp brief
+copy running-config startup-config
