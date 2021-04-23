@@ -1,19 +1,5 @@
 # **RUN AND COMPARE COMMANDS**
 
-- [**RUN AND COMPARE COMMANDS**](#run-and-compare-commands)
-  - [**WSTĘP**](#wstęp)
-  - [**OPIS TECHNICZNY**](#opis-techniczny)
-    - [LISTA POLECEŃ](#lista-poleceń)
-    - [JAK DZIAŁA SKRYPT](#jak-działa-skrypt)
-    - [KOMUNIKATY](#komunikaty)
-  - [**WYMAGANIA**](#wymagania)
-  - [**JAK ZACZĄĆ**](#jak-zacząć)
-  - [**PROBLEMY**](#problemy)
-  - [**KONTAKT**](#kontakt)
-  - [**LICENCJA**](#licencja)
-
----
-
 ## **WSTĘP**
 
 Niniejszy skrypt służy do wykonania serii polecen diagnostycznych typu `show`, przed i po zakończeniu dokonywania zmian na urządzeniach Cisco. Pliki te są na koniec porównywane, w celu potwierdzenia poprawności działania sieci.
